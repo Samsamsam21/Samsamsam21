@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Samsamsam21
+- 🖖🏻 Hi, I’m @Samsamsam21
 - 👀 I’m interested in Computer vision  
-- 🌱 I’m currently learning SQL, Python and C
-- 💞️ I’m looking to collaborate on electronic proyects
+- 🀄️ I’m currently learning SQL, Python and C
+- 📟 I’m looking to collaborate on electronic proyects
 - 📫 How to reach me samsamrdgz@outlook.com
 
 <!---
